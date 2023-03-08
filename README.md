@@ -16,7 +16,7 @@
 
 ### Links 
 
-🔗 Live Site URL: [https://basket-scoreboard.app/](https://basket-scoreboard.app/)
+🔗 Live Site URL: [https://unit-converter-excercise.netlify.app/](https://unit-converter-excercise.netlify.app/)
 
 ### Built with 
 
